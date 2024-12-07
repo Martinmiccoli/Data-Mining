@@ -36,16 +36,12 @@ Welcome to the **Data Mining 2** project repository for the academic year 2023/2
 
 ---
 
-📋 Deliverables
- -📘 Module Reports: Detailed analysis and results for each module. 
- -📊 Visualizations: Highlight key insights through clustering plots, classification performance graphs, etc.
- -📜 Code Documentation: Ensure all scripts are well-commented and reusable.
+## 📋 Deliverables
+- 📘 Module Reports: Detailed analysis and results for each module. 
+- 📊 Visualizations: Highlight key insights through clustering plots, classification performance graphs, etc.
+- 📜 Code Documentation: Ensure all scripts are well-commented and reusable.
+  
 ---
 
-🤝 Contributing
-We encourage collaboration! 🌟 Feel free to:
- - Report issues or suggest improvements.
- - Submit pull requests for new features or enhancements.
----
-Happy mining! 🚀✨
+## Happy mining! 🚀✨
 Let’s turn data into golden insights! 🏆
